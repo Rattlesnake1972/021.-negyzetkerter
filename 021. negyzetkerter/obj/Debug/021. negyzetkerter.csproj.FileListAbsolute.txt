@@ -1,0 +1,6 @@
+C:\Users\gratt\source\repos\021. negyzetkerter\021. negyzetkerter\bin\Debug\_021.negyzetkerter.exe.config
+C:\Users\gratt\source\repos\021. negyzetkerter\021. negyzetkerter\bin\Debug\_021.negyzetkerter.exe
+C:\Users\gratt\source\repos\021. negyzetkerter\021. negyzetkerter\bin\Debug\_021.negyzetkerter.pdb
+C:\Users\gratt\source\repos\021. negyzetkerter\021. negyzetkerter\obj\Debug\021. negyzetkerter.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\021. negyzetkerter\021. negyzetkerter\obj\Debug\_021.negyzetkerter.exe
+C:\Users\gratt\source\repos\021. negyzetkerter\021. negyzetkerter\obj\Debug\_021.negyzetkerter.pdb
